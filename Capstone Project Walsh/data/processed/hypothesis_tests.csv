@@ -1,0 +1,5 @@
+hypothesis,metric,value,threshold,pass,interpretation,p_value
+H1 (RQ1): Reddit signals predictive,avg_r2,-1.726564121000573e+29,0.3,False,Weak predictive power,
+H2 (RQ2): Reddit leads Google (avg_lag < 0),avg_lag_weeks,-0.3142857142857143,0.0,False,No significant lead-time advantage,0.21474410636179386
+H3 (RQ3): Features differ in importance,feature_importance_variance,0.03166317013880122,0.02,True,Feature contributions vary significantly,
+H4 (RQ4): Keyword type affects performance,correlation_effect_size,0.15014426131583,0.15,False,No keyword-type effect,0.988624027942312

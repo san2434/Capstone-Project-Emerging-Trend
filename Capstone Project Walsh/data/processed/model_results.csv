@@ -1,0 +1,50 @@
+keyword,max_correlation,optimal_lag_weeks,p_value,n_overlap,status
+AllTrails app,-0.6057803634793785,3.0,0.39421963652062153,4.0,ok
+Arc’teryx,0.7234249591219251,0.0,0.1671707674498668,5.0,ok
+Black Diamond,0.7469025729089107,0.0,0.25309742709108923,4.0,ok
+Columbia Sportswear,-0.8012414734483003,1.0,0.1987585265516996,4.0,ok
+Merrell,0.5600022501090971,0.0,0.4399977498909029,4.0,ok
+Osprey,0.6077550146647326,0.0,0.3922449853352674,4.0,ok
+Patagonia,0.10249210597491736,0.0,0.8975078940250827,4.0,ok
+REI Co-op,-0.9197875627936476,-2.0,0.02694020395198158,5.0,ok
+Salomon,-0.1803178182372456,0.0,0.8196821817627544,4.0,ok
+The North Face,0.5392828515122007,0.0,0.4607171484877993,4.0,ok
+backpacking,0.4530362126718911,0.0,0.546963787328109,4.0,ok
+bushcraft,0.7510757226868036,-1.0,0.24892427731319638,4.0,ok
+camping and hiking,0.9477746250114807,-2.0,0.05222537498851932,4.0,ok
+camping tent,-0.819074407362219,-3.0,0.18092559263778096,4.0,ok
+headlamp,0.9228955803779216,0.0,0.07710441962207834,4.0,ok
+hiking,-0.689851691811118,0.0,0.31014830818888195,4.0,ok
+hiking apps,-0.9109880850705528,3.0,0.03145001589593988,5.0,ok
+hiking backpack,0.9685211670290251,-1.0,0.031478832970974834,4.0,ok
+hiking boots,0.32541973118838713,0.0,0.6745802688116129,4.0,ok
+hiking checklist,,0.0,,0.0,insufficient_overlap_or_variance
+hiking equipment,-0.9089982209922127,-2.0,0.09100177900778726,4.0,ok
+hiking essentials,,0.0,,0.0,insufficient_overlap_or_variance
+hiking gear,-0.8227187367396651,0.0,0.04435711439517522,6.0,ok
+hiking in summer,,0.0,,0.0,insufficient_overlap_or_variance
+hiking safety tips,,0.0,,0.0,insufficient_overlap_or_variance
+hydration pack,0.7716845285366637,0.0,0.07224112250915746,6.0,ok
+lightweight camping,0.35553020657318124,0.0,0.6444697934268188,4.0,ok
+minimalist backpacking,,0.0,,0.0,insufficient_overlap_or_variance
+outdoor adventure,0.7477983785423427,0.0,0.2522016214576572,4.0,ok
+personal locator beacon,,0.0,,0.0,insufficient_overlap_or_variance
+portable stove,0.4114972557254061,-2.0,0.588502744274594,4.0,ok
+satellite communication device,,0.0,,0.0,insufficient_overlap_or_variance
+sleeping bag,0.6140907487804296,0.0,0.3859092512195704,4.0,ok
+solo hiking,0.6364194922462365,2.0,0.3635805077537635,4.0,ok
+sustainable outdoor gear,,0.0,,0.0,insufficient_overlap_or_variance
+thru-hiking,-0.5810805454739647,-1.0,0.4189194545260353,4.0,ok
+trail hiking,-0.961614141179208,2.0,0.03838585882079206,4.0,ok
+trail running shoes,0.7598894825756684,0.0,0.07955803776345678,6.0,ok
+trekking,0.4833850080628584,0.0,0.5166149919371417,4.0,ok
+trekking poles,0.6137912415209602,0.0,0.3862087584790398,4.0,ok
+ultralight backpack,-0.9264416735622306,-3.0,0.07355832643776938,4.0,ok
+ultralight hiking,,0.0,,0.0,insufficient_overlap_or_variance
+ultralight tent,0.9887535455281958,-2.0,0.01124645447180416,4.0,ok
+what to pack for hiking,,0.0,,0.0,insufficient_overlap_or_variance
+“any suggestions?”,,0.0,,0.0,insufficient_overlap_or_variance
+“gear review”,0.7803888035508117,-3.0,0.11938916805383439,5.0,ok
+“just bought”,,0.0,,0.0,insufficient_overlap_or_variance
+“new hiking gear”,,0.0,,0.0,insufficient_overlap_or_variance
+“worth it?”,,0.0,,0.0,insufficient_overlap_or_variance
